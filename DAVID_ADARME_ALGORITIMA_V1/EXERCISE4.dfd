@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+'Calcular edad de acuerdo a las siguientes condiciones'
+6
+2
+4
+AñoN
+1
+0
+4
+AñoA
+1
+0
+4
+1
+27
+'Ingrese año de nacimiento'
+5
+1
+4
+AñoN
+4
+1
+23
+'Ingrese el año actual'
+5
+1
+4
+AñoA
+6
+1
+4
+XAño
+9
+AñoA-AñoN
+4
+1
+25
+'La edad actual es', XAño
+1

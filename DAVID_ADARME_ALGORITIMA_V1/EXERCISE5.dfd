@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+15
+'Calcular EDAD'
+6
+2
+13
+BirthYearData
+1
+0
+15
+CurrentYearData
+1
+0
+4
+1
+30
+'Ingrese el año de nacimiento'
+5
+1
+13
+BirthYearData
+4
+1
+23
+'Ingrese el año actual'
+5
+1
+15
+CurrentYearData
+6
+1
+9
+YearsData
+29
+CurrentYearData-BirthYearData
+4
+1
+23
+'La edad es', YearsData
+4
+1
+41
+'FELICITACIONES TE ESTAS VOLVIENDO VIEJO'
+1

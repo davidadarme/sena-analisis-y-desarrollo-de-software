@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+'Valor total de la compra con el descuento aplicado'
+6
+2
+12
+PurchaseData
+1
+0
+8
+Discount
+4
+0.15
+4
+1
+32
+'El valor de la compra total es'
+5
+1
+12
+PurchaseData
+6
+2
+11
+PercentData
+21
+PurchaseData*Discount
+10
+TotalValue
+24
+PurchaseData-PercentData
+4
+1
+65
+'El valor total a pagar con el descuento aplicado es', TotalValue
+1

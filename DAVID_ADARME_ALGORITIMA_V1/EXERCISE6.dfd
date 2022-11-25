@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+10
+NombreData
+6
+'null'
+8
+EdadData
+1
+0
+8
+SexoData
+1
+0
+4
+1
+19
+'Ingrese el nombre'
+5
+1
+10
+NombreData
+4
+1
+17
+'Ingrese la edad'
+5
+1
+8
+EdadData
+4
+1
+73
+'Ingrese el sexo: escriba 1 si es sexo femenino o 2 si es sexo masculino'
+5
+1
+8
+SexoData
+7
+0
+1
+10
+SexoData=2
+4
+1
+48
+'Su nombre es', NombreData, 'y tienes', EdadData
+13
+7
+0
+1
+11
+EdadData>18
+4
+1
+2
+''
+13
+4
+1
+26
+'Su nombre es', NombreData
+13
+13
+1

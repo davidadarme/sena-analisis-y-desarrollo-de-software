@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+43
+'Calcular el TOTAL y DINERO EXTRA obtenido'
+6
+2
+10
+SalaryData
+1
+0
+13
+CommisionData
+4
+0.10
+4
+1
+25
+'Cual es el salario de X'
+5
+1
+10
+SalaryData
+6
+3
+16
+CommisionPercent
+24
+SalaryData*CommisionData
+9
+TotalData
+18
+CommisionPercent*3
+5
+Total
+20
+TotalData+SalaryData
+4
+1
+52
+'La cantidad de dinero EXTRA recibido es', TotalData
+4
+1
+52
+'La cantidad de TOTAL de dinero recibido es',  Total
+1
