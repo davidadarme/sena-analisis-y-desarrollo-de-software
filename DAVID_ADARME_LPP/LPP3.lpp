@@ -1,0 +1,38 @@
+name
+real items_sold, item_value, less_purchase_data, more_purchase_data
+
+Inicio
+
+escriba"Ingrese su nombre: "
+lea name
+llamar nueva_linea
+escriba"Ingrese el número de artículos vendidos"
+lea items_sold
+llamar nueva_linea
+escriba"Ingrese el valor del articulo"
+lea item_value
+llamar nueva_linea
+
+
+
+
+si items_sold>50 haga <-item_value*items_sold-0.10
+
+
+less_purchase_data<-
+more_purchase_data<-items_sold<50
+
+
+
+
+
+escriba " ", less_purchase_data
+llamar nueva_linea
+escriba " ", more_purchase_data
+llamar nueva_linea
+
+
+
+
+
+Fin

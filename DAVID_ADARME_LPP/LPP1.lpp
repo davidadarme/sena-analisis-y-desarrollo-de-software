@@ -1,0 +1,35 @@
+cadena [25] name, worker_code
+real gross_salary, net_salary, worked_hours_per_month, retencion_value,payment_per_hour, total_value
+Inicio
+escriba"Nombre del trabajador: "
+lea name
+llamar nueva_linea
+escriba"Ingrese el codigo del trabajador: "
+lea worker_code
+llamar nueva_linea
+escriba" Ingrese las horas trabajadas en el mes: "
+lea worked_hours_per_month
+llamar nueva_linea
+escriba"Ingrese el valor de pago por hora: "
+lea payment_per_hour
+llamar nueva_linea
+escriba"Ingrese el valor de la retencion de la fuente: "
+lea retencion_value
+llamar nueva_linea
+
+gross_salary<-worked_hours_per_month*payment_per_hour
+total_value<-(gross_salary*retencion_value)/100
+net_salary<-gross_salary-total_value
+
+escriba "El nombre del trabajador es ", name
+llamar nueva_linea
+escriba "El codigo del trabajador ", worker_code
+llamar nueva_linea
+escriba "El salario neto es ", net_salary
+llamar nueva_linea
+escriba "El salario bruto es ", gross_salary
+llamar nueva_linea
+escriba "El total es ", total_value
+llamar nueva_linea
+
+Fin

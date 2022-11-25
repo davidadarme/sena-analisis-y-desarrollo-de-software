@@ -1,0 +1,18 @@
+real total_value, total_purchase_value, discount_value_operation
+
+Inicio
+escriba"El valor de descuento por su compra total es de el 15%"
+llamar nueva_linea
+escriba"Ingrese el valor total: "
+lea total_value
+llamar nueva_linea
+
+discount_value_operation<-total_value*0.15
+total_purchase_value<-total_value-discount_value_operation
+
+escriba "El valor del descuento con el 15% es: ", discount_value_operation
+llamar nueva_linea
+escriba "El valor total de la compra con el descuento aplicado es ", total_purchase_value
+llamar nueva_linea
+
+Fin
