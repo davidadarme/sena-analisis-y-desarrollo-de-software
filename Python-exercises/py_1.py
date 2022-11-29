@@ -1,6 +1,5 @@
     #Ejercicio 1
        
-
 MData_value = float(input("Ingrese la cantidad de hombres: "))
 FData_value = float(input("Ingrese la cantidad de mujeres: "))  # %/100*total
 total_data_value = MData_value+FData_value
