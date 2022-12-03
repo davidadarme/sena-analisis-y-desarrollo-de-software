@@ -1,0 +1,32 @@
+<!-- CSS for styling the calculator user interface -->
+<style>
+  #calculator {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  #calculator form {
+    margin-bottom: 20px;
+  }
+  #calculator input, #calculator select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  #calculator button {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+  }
+  #calculator p {
+    font-size: 24px;
+    font-weight: bold;
+  }
+</style>
